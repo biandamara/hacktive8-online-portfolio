@@ -1,3 +1,7 @@
 .home {
   background-color: var(--primary);
 }
+
+.navigation {
+  top: 5rem !important;
+}

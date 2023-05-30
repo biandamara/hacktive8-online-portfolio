@@ -19,7 +19,7 @@ export default function Home() {
       <div className={`row row-cols-1 row-cols-lg-2 p-3`}>
         {/* navigation - start */}
         <div className={`col col-lg-2`}>
-          <div className={`sticky-top`}>
+          <div className={`sticky-top ${styles.navigation}`}>
             <Header></Header>
             <Navigation></Navigation>
           </div>
