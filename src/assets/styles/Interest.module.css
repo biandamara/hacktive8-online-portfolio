@@ -1,0 +1,12 @@
+.skills {
+  background-color: var(--card);
+  padding: 1rem 2rem;
+  border: 1px solid var(--headline);
+  border-radius: 15px;
+}
+
+.skills .logo img {
+  margin-top: 1rem;
+  height: 40px;
+  object-fit: contain;
+}
