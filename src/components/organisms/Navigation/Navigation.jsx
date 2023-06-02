@@ -1,37 +1,37 @@
 import React from "react";
 
 // import styles
-import styles from "../assets/styles/Navigation.module.css";
+import styles from "./Navigation.module.css";
 
 export default function Navigation() {
   return (
-    <div className={`${styles.navigation}`}>
+    <div className={`py-2 ${styles.navigation}`}>
       {/* navigation bar - start */}
-      <nav className="navbar navbar-expand-lg">
+      <nav className={`navbar navbar-expand-lg`}>
         <div>
           {/* button collapse - start  */}
           <button
-            className="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarNav"
-            aria-controls="navbarNav"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
+            className={`navbar-toggler`}
+            type={`button`}
+            data-bs-toggle={`collapse`}
+            data-bs-target={`#navbarNav`}
+            aria-controls={`navbarNav`}
+            aria-expanded={false}
+            aria-label={`Toggle navigation`}
           >
-            <span class="navbar-toggler-icon"></span>
+            <span className={`navbar-toggler-icon`}></span>
           </button>
           {/* button collapse - end  */}
         </div>
 
         {/* menu - start */}
         <div className={`collapse navbar-collapse`} id="navbarNav">
-          <ul className="navbar-nav row text-center">
-            <li className="nav-item active">
+          <ul className={`navbar-nav row text-center`}>
+            <li className={`nav-item active`}>
               <a
-                className="nav-link"
-                href="#about"
-                data-aos="fade-up"
+                className={`nav-link`}
+                href={`#about`}
+                data-aos={`fade-up`}
                 data-aos-duration={`1000`}
                 data-aos-delay={`500`}
                 data-aos-once={`true`}
@@ -39,11 +39,11 @@ export default function Navigation() {
                 About
               </a>
             </li>
-            <li className="nav-item">
+            <li className={`nav-item`}>
               <a
-                className="nav-link"
-                href="#experience"
-                data-aos="fade-up"
+                className={`nav-link`}
+                href={`#experience`}
+                data-aos={`fade-up`}
                 data-aos-duration={`1000`}
                 data-aos-delay={`800`}
                 data-aos-once={`true`}
@@ -51,11 +51,11 @@ export default function Navigation() {
                 Experience
               </a>
             </li>
-            <li className="nav-item">
+            <li className={`nav-item`}>
               <a
-                className="nav-link"
-                href="#education"
-                data-aos="fade-up"
+                className={`nav-link`}
+                href={`#education`}
+                data-aos={`fade-up`}
                 data-aos-duration={`1000`}
                 data-aos-delay={`1100`}
                 data-aos-once={`true`}
@@ -63,11 +63,11 @@ export default function Navigation() {
                 Education
               </a>
             </li>
-            <li className="nav-item">
+            <li className={`nav-item`}>
               <a
-                className="nav-link"
-                href="#skills"
-                data-aos="fade-up"
+                className={`nav-link`}
+                href={`#skills`}
+                data-aos={`fade-up`}
                 data-aos-duration={`1000`}
                 data-aos-delay={`1400`}
                 data-aos-once={`true`}
@@ -76,13 +76,13 @@ export default function Navigation() {
               </a>
             </li>
             <li
-              className="nav-item"
-              data-aos="fade-up"
+              className={`nav-item`}
+              data-aos={`fade-up`}
               data-aos-duration={`1000`}
               data-aos-delay={`1700`}
               data-aos-once={`true`}
             >
-              <a className="nav-link" href="#interest">
+              <a className={`nav-link`} href={`#interest`}>
                 Interests
               </a>
             </li>

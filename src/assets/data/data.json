@@ -1,0 +1,216 @@
+{
+  "header": {
+    "photo": "https://res.cloudinary.com/biandamara/image/upload/c_crop,h_1905,w_1905/v1685694673/IMG_0239_xewnlt.jpg",
+    "full_name": "Bian Damara",
+    "job_title": "Front-End Developer",
+    "contact": [
+      {
+        "name": "E-mail",
+        "logo": "https://res.cloudinary.com/biandamara/image/upload/v1663585979/Portfolio%20Web/Icons/e-mail_cdxvra.png",
+        "url": "bian.damara@gmail.com"
+      },
+      {
+        "name": "Instagram",
+        "logo": "https://res.cloudinary.com/biandamara/image/upload/v1663585013/Portfolio%20Web/Icons/instagram-round_mcalxj.png",
+        "url": "https://www.instagram.com/biandamara/"
+      },
+      {
+        "name": "LinkedIn",
+        "logo": "https://res.cloudinary.com/biandamara/image/upload/v1663585012/Portfolio%20Web/Icons/linkedin-round_lltwik.png",
+        "url": "https://www.linkedin.com/in/bian-damara-218270151/"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://res.cloudinary.com/biandamara/image/upload/v1663585013/Portfolio%20Web/Icons/github-round_r5b7w8.png",
+        "url": "https://github.com/biandamara"
+      }
+    ]
+  },
+  "sections": {
+    "about": {
+      "title": "About",
+      "description": [
+        {
+          "line": "Hello! I'm a Front-end Developer who has expertise in the use of HTML, CSS, JavaScript, GIT, Node JS, Express JS, and web technologies such as React JS, Next JS, and Redux JS. I'm very interested in new challenges and excited when there is an opportunity to work on a project around web development"
+        },
+        {
+          "line": "I'm also a psychology graduate. I'm interested in studying human behavior and the factors that influence it. Studying psychology has helped me better understand myself and why people act like they do in certain situations."
+        }
+      ]
+    },
+    "experience": {
+      "title": "Experience",
+      "description": [
+        {
+          "job_title": "Front-End Developer",
+          "logo": "https://www.iplogika.co.id/img/logoipl.png",
+          "company": "PT Integrasi Prima Logika",
+          "employment_type": "Intenship",
+          "start_date": "Mei 2023",
+          "end_date": "Present",
+          "location": "Bandung, Indonesia",
+          "location_type": "Remote",
+          "jobdesk": [
+            {
+              "list": "Transformed UI design into fully functional website using based on client's requirement"
+            },
+            {
+              "list": "Ensuring seamless user experience and web client functionality through regular maintenance and updates"
+            }
+          ]
+        },
+        {
+          "job_title": "Front-End Developer",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1685015955/npn-dev-club_nxedxt.jpg",
+          "company": "NPN Dev Club",
+          "employment_type": "Freelance",
+          "start_date": "Apr 2023",
+          "end_date": "Present",
+          "location": "Jakarta, Indonesia",
+          "location_type": "Remote",
+          "jobdesk": [
+            {
+              "list": "Transformed UI design into fully functional website using based on client's requirement"
+            },
+            {
+              "list": "Ensuring seamless user experience and web client functionality through regular maintenance and updates"
+            }
+          ]
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "description": [
+        {
+          "school": "Hacktive8",
+          "logo": "https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/322/original/Logo_Hacktiv8.jpg",
+          "field_of_study": "React and React Native",
+          "start_date": "April 2022",
+          "end_date": "Present",
+          "location": "Jakarta, Indonesia",
+          "jobdesk": [
+            {
+              "list": "Learn about fundamental JavaScript, React JS and Raect Native"
+            },
+            {
+              "list": "Create a Online Calculator"
+            },
+            {
+              "list": "Create a Currency Rate"
+            },
+            {
+              "list": "Create a Online Portfolio"
+            }
+          ]
+        },
+        {
+          "school": "Binar Academy",
+          "logo": "https://rec-data.kalibrr.com/www.kalibrr.com/logos/WCC8JYGAK3XYJMLBQ23ZA4F6ZF8P29VCXZ7ZPFEZ-6331ecc9.png",
+          "field_of_study": "Full-stack Web Development",
+          "start_date": "Feb 2022",
+          "end_date": "Sep 2022",
+          "location": "Jakarta, Indonesia",
+          "jobdesk": [
+            {
+              "list": "Complete a 7-month full-stack web development program and learn about HTML, CSS, JavaScript, GIT, Node JS, Express JS, PostgreSQL, React JS, Next JS, and Redux JS"
+            },
+            {
+              "list": "Create a full-stack web application for 5 months and improve the user experience"
+            },
+            {
+              "list": "Work together on team projects for 2 months and increase team productivity"
+            }
+          ]
+        },
+        {
+          "school": "University of Brawijaya",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Logo_Universitas_Brawijaya.svg/2036px-Logo_Universitas_Brawijaya.svg.png",
+          "field_of_study": "Bachelor's degree, Psychology",
+          "start_date": "Aug 2010",
+          "end_date": "Mar 2015",
+          "location": "Malang, Indonesia",
+          "jobdesk": [
+            {
+              "list": "GPA 3.1/4.0"
+            },
+            {
+              "list": "Undergraduate Thesis: The Relationship Autonomy and Self-Adjustment of Disability Students in PSLD (Study and Disability Services Canter) Brawijaya University"
+            }
+          ]
+        }
+      ]
+    },
+    "skills": {
+      "title": "Skills",
+      "description": [
+        {
+          "name": "HTML",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1665735728/Portfolio%20Web/Icons/html_p9ksca.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1665735727/Portfolio%20Web/Icons/css_mfydus.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1665735727/Portfolio%20Web/Icons/javascript_rn4mqp.png"
+        },
+        {
+          "name": "GIT",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1665735728/Portfolio%20Web/Icons/git_etdhqk.png"
+        },
+        {
+          "name": "Node JS",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1665735728/Portfolio%20Web/Icons/node_ufkqsb.png"
+        },
+        {
+          "name": "Express JS",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1665735728/Portfolio%20Web/Icons/express_ek4xho.png"
+        },
+        {
+          "name": "PostgreSQL",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1665735728/Portfolio%20Web/Icons/postgresql_h006xx.png"
+        },
+        {
+          "name": "React JS",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1665735729/Portfolio%20Web/Icons/react_pw5srt.png"
+        },
+        {
+          "name": "Next JS",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/e_colorize:100/v1665735728/Portfolio%20Web/Icons/next_ul8vjc.png"
+        },
+        {
+          "name": "Redux",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1665735728/Portfolio%20Web/Icons/redux_gbcoub.png"
+        }
+      ]
+    },
+    "interests": {
+      "title": "Interests",
+      "description": [
+        {
+          "name": "Psychology",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1665939993/Portfolio%20Web/Icons/psychology_nexc1x.png",
+          "description": "I'm a psychology graduate. I'm interested in studying human behavior and the factors that influence it. Studying psychology has helped me to understand myself better, and understand psychology why people act like they do in certain situations. I like to understand what motivates us, what makes us happy, what causes us to stress, and how we can be happier and not stressed.",
+          "note": "",
+          "url": ""
+        },
+        {
+          "name": "Traveling",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1665939993/Portfolio%20Web/Icons/footstep_f7sv5i.png",
+          "description": "The adventure of a lifetime or just wanting to connect with someone new, traveling can be a very rewarding experience. It's also something I can do casually, at my own pace, with the people I'm friends with. I also really enjoy visiting new places, learning local history and culture, and tasting local food. The best travel experiences are those where I feel connected to people while I'm on the road. That's what travel is like for me: a journey.",
+          "note": "",
+          "url": ""
+        },
+        {
+          "name": "Photography",
+          "logo": "https://res.cloudinary.com/biandamara/image/upload/v1665939993/Portfolio%20Web/Icons/camera_fa9lpn.png",
+          "description": "Photography has always been one of my favorite hobbies. When I take pictures, it's like seeing things from a new perspective literally and figuratively. Thing about the camera and the lens is that it lets you see people, places, etc. from a whole new perspective and it helps to see things from a different view. From photography, I realized that getting a different view of things means you have a more open mind to the world.",
+          "note": "Check out my Instagram.",
+          "url": "https://www.instagram.com/biandamara/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+.education {
+  background-color: var(--primary);
+  color: var(--secondary);
+  justify-content: center;
+  padding: 3rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.education .item {
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--sub);
+}
+
+.education .logo {
+  height: 40px;
+  margin-top: 1rem;
+}
+
+.education .sub-title {
+  color: var(--sub);
+  padding: 0.5rem 0;
+  line-height: 0.5rem;
+}
+
+.education .jobdesk ul li {
+  margin-bottom: -0.5rem;
+}

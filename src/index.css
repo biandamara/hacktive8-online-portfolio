@@ -1,8 +1,7 @@
 :root {
-  --primary: #d8eefe;
-  --secondary: #90b4ce;
-  --card: #fffffe;
-  --headline: #094067;
+  --primary: #0f0f0f;
+  --secondary: #e1dfdb;
+  --sub: #808080;
   --headlight: #ef4565;
 }
 
@@ -32,5 +31,5 @@ a,
 }
 
 a:hover {
-  font-size: large;
+  /* font-size: large; */
 }

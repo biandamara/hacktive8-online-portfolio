@@ -1,0 +1,16 @@
+.header {
+  color: var(--secondary);
+}
+
+.header .photo {
+  height: 13rem;
+  width: 13rem;
+  border-radius: 50%;
+}
+
+.header .logo {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+  filter: invert();
+}

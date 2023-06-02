@@ -16,4 +16,4 @@ This application showcases an online portfolio that provides a comprehensive ove
 
 ## Screenshots
 
-![App Screenshot](https://res.cloudinary.com/biandamara/image/upload/c_scale,h_500/v1685461009/hactive8-online-portfolio_hkrvh4.png)
+![App Screenshot](https://res.cloudinary.com/biandamara/image/upload/c_scale,h_500/v1685735630/Screenshot_2023-06-03_at_02.52.56_dtdqjr.png)

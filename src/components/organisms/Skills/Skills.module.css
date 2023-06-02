@@ -1,0 +1,14 @@
+.skills {
+  background-color: var(--primary);
+  color: var(--secondary);
+  justify-content: center;
+  padding: 3rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.skills .logos img {
+  margin: 1rem;
+  height: 3rem;
+}
