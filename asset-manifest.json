@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hacktive8-online-portfolio/static/css/main.936b1002.css",
-    "main.js": "/hacktive8-online-portfolio/static/js/main.befac47a.js",
+    "main.css": "/hacktive8-online-portfolio/static/css/main.060a333d.css",
+    "main.js": "/hacktive8-online-portfolio/static/js/main.a3ad7468.js",
     "static/js/787.6aa2fdb7.chunk.js": "/hacktive8-online-portfolio/static/js/787.6aa2fdb7.chunk.js",
     "index.html": "/hacktive8-online-portfolio/index.html",
-    "main.936b1002.css.map": "/hacktive8-online-portfolio/static/css/main.936b1002.css.map",
-    "main.befac47a.js.map": "/hacktive8-online-portfolio/static/js/main.befac47a.js.map",
+    "main.060a333d.css.map": "/hacktive8-online-portfolio/static/css/main.060a333d.css.map",
+    "main.a3ad7468.js.map": "/hacktive8-online-portfolio/static/js/main.a3ad7468.js.map",
     "787.6aa2fdb7.chunk.js.map": "/hacktive8-online-portfolio/static/js/787.6aa2fdb7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.936b1002.css",
-    "static/js/main.befac47a.js"
+    "static/css/main.060a333d.css",
+    "static/js/main.a3ad7468.js"
   ]
 }
