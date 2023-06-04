@@ -13,10 +13,10 @@ export default function About() {
       <div className="p-3">
         <h2
           className={`fw-bold`}
-          data-aos={`fade-down`}
-          data-aos-duration={`1000`}
-          data-aos-delay={`1000`}
-          data-aos-once={`true`}
+          // data-aos={`fade-down`}
+          // data-aos-duration={`1000`}
+          // data-aos-delay={`1000`}
+          // data-aos-once={`true`}
         >
           {data.sections.about.title}
         </h2>
@@ -25,10 +25,10 @@ export default function About() {
 
       {/* section description - start */}
       <div
-        data-aos={`zoom-out`}
-        data-aos-duration={`1000`}
-        data-aos-delay={`1000`}
-        data-aos-once={`true`}
+      // data-aos={`zoom-out`}
+      // data-aos-duration={`1000`}
+      // data-aos-delay={`1000`}
+      // data-aos-once={`true`}
       >
         {data.sections.about.description.map((item, index) => (
           <p key={index}>{item.line}</p>

@@ -15,10 +15,10 @@ export default function Interest() {
       <div className={`p-3`}>
         <h2
           className={`fw-bold`}
-          data-aos={`fade-down`}
-          data-aos-duration={`1000`}
-          data-aos-delay={`1000`}
-          data-aos-once={`true`}
+          // data-aos={`fade-down`}
+          // data-aos-duration={`1000`}
+          // data-aos-delay={`1000`}
+          // data-aos-once={`true`}
         >
           {interests.title}
         </h2>
@@ -31,9 +31,9 @@ export default function Interest() {
           <div
             className={`row ${styles.item}`}
             key={index}
-            data-aos={`zoom-out`}
-            data-aos-duration={`1000`}
-            data-aos-once={`true`}
+            // data-aos={`zoom-out`}
+            // data-aos-duration={`1000`}
+            // data-aos-once={`true`}
           >
             {/* logo - start */}
             <div className={`col-2 d-flex justify-content-center`}>
@@ -41,10 +41,10 @@ export default function Interest() {
                 className={`${styles.logo}`}
                 src={item.logo}
                 alt={``}
-                data-aos={`fade-left`}
-                data-aos-duration={`1000`}
-                data-aos-delay={`1000`}
-                data-aos-once={`true`}
+                // data-aos={`fade-left`}
+                // data-aos-duration={`1000`}
+                // data-aos-delay={`1000`}
+                // data-aos-once={`true`}
               ></img>
             </div>
             {/* logo - end */}
@@ -52,10 +52,10 @@ export default function Interest() {
             {/* description - start */}
             <div
               className={`col-10`}
-              data-aos={`zoom-out`}
-              data-aos-duration={`1000`}
-              data-aos-delay={`1000`}
-              data-aos-once={`true`}
+              // data-aos={`zoom-out`}
+              // data-aos-duration={`1000`}
+              // data-aos-delay={`1000`}
+              // data-aos-once={`true`}
             >
               {/* title - start */}
               <div>

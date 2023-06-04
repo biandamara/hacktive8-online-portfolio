@@ -16,10 +16,10 @@ export default function Experience() {
       <div className={`p-3`}>
         <h2
           className={`fw-bold`}
-          data-aos={`fade-down`}
-          data-aos-duration={`1000`}
-          data-aos-delay={`1000`}
-          data-aos-once={`true`}
+          // data-aos={`fade-down`}
+          // data-aos-duration={`1000`}
+          // data-aos-delay={`1000`}
+          // data-aos-once={`true`}
         >
           {experience.title}
         </h2>
@@ -28,10 +28,10 @@ export default function Experience() {
 
       {/* section description - start */}
       <div
-        data-aos={`zoom-out`}
-        data-aos-duration={`1000`}
-        data-aos-delay={`1000`}
-        data-aos-once={`true`}
+      // data-aos={`zoom-out`}
+      // data-aos-duration={`1000`}
+      // data-aos-delay={`1000`}
+      // data-aos-once={`true`}
       >
         {description.map((item, index) => (
           <div className={`row ${styles.item}`} key={index}>
@@ -41,10 +41,10 @@ export default function Experience() {
                 className={`${styles.logo}`}
                 src={item.logo}
                 alt={``}
-                data-aos={`fade-left`}
-                data-aos-duration={`1000`}
-                data-aos-delay={`1000`}
-                data-aos-once={`true`}
+                // data-aos={`fade-left`}
+                // data-aos-duration={`1000`}
+                // data-aos-delay={`1000`}
+                // data-aos-once={`true`}
               ></img>
             </div>
             {/* logo - end */}
@@ -52,10 +52,10 @@ export default function Experience() {
             {/* description - start */}
             <div
               className={`col-10`}
-              data-aos={`zoom-out`}
-              data-aos-duration={`1000`}
-              data-aos-delay={`1000`}
-              data-aos-once={`true`}
+              // data-aos={`zoom-out`}
+              // data-aos-duration={`1000`}
+              // data-aos-delay={`1000`}
+              // data-aos-once={`true`}
             >
               <div>
                 <h3>{item.job_title}</h3>

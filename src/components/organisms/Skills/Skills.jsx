@@ -16,10 +16,10 @@ export default function Skills() {
       <div className={`p-3`}>
         <h3
           className={`fw-bold`}
-          data-aos={`fade-down`}
-          data-aos-duration={`1000`}
-          data-aos-delay={`1000`}
-          data-aos-once={`true`}
+          // data-aos={`fade-down`}
+          // data-aos-duration={`1000`}
+          // data-aos-delay={`1000`}
+          // data-aos-once={`true`}
         >
           {skills.title}
         </h3>
@@ -33,10 +33,10 @@ export default function Skills() {
             <img
               src={item.logo}
               alt={``}
-              data-aos={`flip-left`}
-              data-aos-duration={`1000`}
-              data-aos-delay={`1000`}
-              data-aos-once={`true`}
+              // data-aos={`flip-left`}
+              // data-aos-duration={`1000`}
+              // data-aos-delay={`1000`}
+              // data-aos-once={`true`}
             ></img>
           </div>
         ))}
